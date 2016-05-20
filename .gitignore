@@ -1,0 +1,8 @@
+*.Rproj*
+.Rhistory
+
+**/.Rproj*/
+.Rproj.user
+
+data/
+output/
